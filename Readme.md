@@ -265,4 +265,14 @@ Potential future enhancements include:
 ---
 
 ## Demo
+
+### Many allocations of falling balls and the platform is functioning normally.
+
+https://github.com/user-attachments/assets/45b277a0-8e61-42bb-9e31-eeb74966c604
+
+### Gameplay
+
+https://github.com/user-attachments/assets/61a54d85-472c-4b02-aaf4-00f9d07f2e14
+
+
   
